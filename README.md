@@ -1,5 +1,6 @@
 # Deep-Learning-Specialization-Course-Series
 This includes the solution files for the programming assignments of each of the 5 courses in Deep Learning Series.
+
 The first course is "Neural Networks and Deep Learning". 
 This course is 4-weeks long.
 
